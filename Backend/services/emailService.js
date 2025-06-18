@@ -102,7 +102,7 @@ const sendEmail = async ({ userId, templateId, emailTo, emailCc }) => {
       id,
       userId,
       templateId,
-      emailFrom: 'info@categorytech.com',
+      emailFrom: 'infor@categorytech.com',
       emailTo,
       emailCc,
       status: 1, // Success
